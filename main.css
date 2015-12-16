@@ -293,6 +293,7 @@ blockquote {
 
 .fb-like {
   float: right;
+  margin-top: -2px;
 }
 
 .contact a:hover {
